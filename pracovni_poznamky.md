@@ -45,16 +45,16 @@ To dává důvod, proč postava učitele chce sbírat indicie stejným tempem ja
 
 ## Role (~10 dospělých s "rolí" na tričku)
 
-1. **Nový učitel černé magie** – viz výše, hybatel zápletky.
-2. **Ředitelka Bradavic** – ví o existenci mechanismu, ale ne o všem; snaží se situaci tutlat, aby nevznikla panika.
-3. **Starý školník / domovník** – pamětník, jako jediný žijící zná část historie mechanismu; mluví v náznacích, cena za informaci od něj je vyšší.
-4. **Bystrozor z Ministerstva kouzel** – dorazil kvůli hlášením o "podivných jevech", vyšetřuje nezávisle na řediteli; může dětem i škodit, pokud jim nevěří.
-5. **Bývalý absolvent, nyní novinář** – hledá senzaci, ochotně vymění informaci za informaci, ale může i lhát/přehánět kvůli senzaci.
-6. **Knihovník/kustod archivu** – drží staré kroniky se zmínkou o heslu/rituálu; typická "otázková" postava, kde čas kupuje konkrétní citace.
-7. **Duch Bradavic** – dává útržkovité, symbolické nápovědy, nikdy přímou odpověď; dobré pro atmosféru.
-8. **Doprovázející profesor z jedné z hostujících škol** (Kruval) – má vlastní agendu, pohár obsahuje symboly, které se mají stát součástí velkého kouzla připravovaném v Kruvalu. může být nespolehlivý spojenec.
-9. **Potomek Aldeberta z Mordwynu** – vystupuje jako **famfrpálový komisař turnaje** (má tak legitimní důvod k poháru i k historii famfrpálu); nese rodinný deník, díky kterému ví, že je potomkem Aldeberta, a snaží se ho pomocí aktivace Srdce Bradavic kontaktovat. Neví, že jeho vlastní krev je druhým, nezávislým klíčem k aktivaci – to ví jen učitel černé magie, který se ho snaží k tomu nevědomky využít.
-10. **Naivní pomocník učitele černé magie** – neví, komu vlastně pomáhá; může dětem nevědomky prozradit, co učitel plánuje, pokud se ho správně zeptají.
+1. **Nový učitel černé magie (Ash)** – viz výše, hybatel zápletky.
+2. **Ředitelka Bradavic (Bob)** – ví o existenci mechanismu, ale ne o všem; snaží se situaci tutlat, aby nevznikla panika.
+3. **Starý školník (Křižák)** – pamětník, jako jediný žijící zná část historie mechanismu; mluví v náznacích, cena za informaci od něj je vyšší.
+4. **Bystrozor z Ministerstva kouzel (Béďa)** – dorazil kvůli hlášením o "podivných jevech", vyšetřuje nezávisle na řediteli; může dětem i škodit, pokud jim nevěří.
+5. **Bývalý absolvent, nyní novinář (Helma)** – hledá senzaci, ochotně vymění informaci za informaci, ale může i lhát/přehánět kvůli senzaci.
+6. **Knihovník/kustod archivu (Deli)** – drží staré kroniky se zmínkou o heslu/rituálu; typická "otázková" postava, kde čas kupuje konkrétní citace.
+7. **Duch Bradavic (Hanz)** – dává útržkovité, symbolické nápovědy, nikdy přímou odpověď; dobré pro atmosféru.
+8. **Doprovázející profesor z jedné z hostujících škol (Dan)** (Kruval) – má vlastní agendu, pohár obsahuje symboly, které se mají stát součástí velkého kouzla připravovaném v Kruvalu. může být nespolehlivý spojenec.
+9. **Potomek Aldeberta z Mordwynu (Miloš)** – vystupuje jako **famfrpálový komisař turnaje** (má tak legitimní důvod k poháru i k historii famfrpálu); nese rodinný deník, díky kterému ví, že je potomkem Aldeberta, a snaží se ho pomocí aktivace Srdce Bradavic kontaktovat. Neví, že jeho vlastní krev je druhým, nezávislým klíčem k aktivaci – to ví jen učitel černé magie, který se ho snaží k tomu nevědomky využít.
+10. **Naivní pomocník učitele černé magie (Jodis)** – neví, komu vlastně pomáhá; může dětem nevědomky prozradit, co učitel plánuje, pokud se ho správně zeptají.
 
 **Poznámka k mechanice:** doporučuji, aby min. 2–3 role vědomě lhaly nebo zamlčovaly (novinář, hostující profesor), aby "čas" nebyl jen platba za pravdu, ale i riziko – děti se musí rozhodnout, komu věřit.
 

@@ -22,9 +22,8 @@ Pomocník slyšel od učitele část informací o Srdci Bradavic. Ví, že krev 
 
 **Co pomocník ví:**
 
-- Slyšel, že ochranná kouzla selhávala.
-- Učitel tvrdí, že za tím mohou být žerty hostujících škol.
-- O Aldebertovi a jeho spojení se Srdcem ví jen velmi málo.
+Slyšel, že ochranná kouzla selhávala.
+Učitel černé magie tvrdí, že za tím mohou být žerty hostujících škol.
 
 **Co a za kolik sdělí dětem:**
 
@@ -35,21 +34,19 @@ Pomocník slyšel od učitele část informací o Srdci Bradavic. Ví, že krev 
 
 **Kartička k vytištění:**
 
-Možná za selhávající kouzla mohou nějaké žerty studentů z hostujících škol. Učitel si to myslí, ale já to nevím jistě.
+Možná za selhávající kouzla mohou nějaké žerty studentů z hostujících škol. Učitel černé magie si to myslí.
 
 ### Sobota ráno – Bitva s monstry
 
 **Co pomocník ví:**
 
-- Děti mohou najít starou stránku s erbem, ale pomocník erb nezná.
-- Ví, že učitel se zajímá o to, co děti během pátrání objevily.
+Ví, že učitel se zajímá o to, co děti během pátrání objevily.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb na stránce | Přizná, že erb nepoznává. Nervózně jim poradí zeptat se knihovníka. | 1 min |
-| Proč se učitel zajímá o jejich pátrání | Řekne, že učitel chce vědět, jestli se v hradu neděje něco nebezpečného. | 1 min |
+| Co znamená erb na stránce | Přizná, že erb nepoznává. Poradí jim zeptat se knihovníka. | 1 min |
 
 **Kartička k vytištění:**
 
@@ -59,28 +56,29 @@ Erb na stránce nepoznávám. Knihovník nebo archivář vám může pomoci zjis
 
 **Co pomocník ví:**
 
-- Učitel se ho vyptává, co děti zjistily o poháru a o starých rodinách.
-- Neví, že komisař pohár ukradl ani že je potomkem Aldeberta.
-- Neví, kdo na hradě pochází z rodu Mordwynů; děti může nasměrovat na komisaře nebo školníka.
+Učitel se ho vyptává, co děti zjistily o poháru a o starých rodinách.
+Neví, kdo na hradě pochází z rodu Mordwynů; děti může nasměrovat na komisaře nebo školníka.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Proč se učitel vyptává na jejich objevy | Přizná, že učitel chce znát jejich pokrok. Sám neví proč a myslí si, že učitel jen dohlíží na bezpečnost. | 1 min |
+| Co dělat s medailonkem | Doporučí ukázat erb knihovníkovi a ověřit, ke kterému rodu patří. | 1 min |
 | Kdo na hradě pochází z rodu Mordwynů | Neví, ale poradí jim zeptat se famfrpálového komisaře nebo školníka. | 1 min |
 
 **Kartička k vytištění:**
 
 Nevím, kdo na hradě pochází z rodu Mordwynů. Zkuste se zeptat komisaře nebo školníka.
 
+Ukažte medailonek knihovníkovi nebo archiváři a zjistěte, kterému rodu erb patří.
+
 ### Sobota odpoledne – Famfrpál
 
 **Co pomocník ví:**
 
-- Učitele stále trápí jeho neúspěch u zkoušky na Bystrozora.
-- Ví, že bystrozor si z učitele kvůli staré zkoušce utahuje.
-- Nezná přesné detaily zkoušky a nechce učitele rozčílit.
+Učitele stále trápí jeho neúspěch u zkoušky na Bystrozora.
+Ví, že bystrozor si z učitele kvůli staré zkoušce utahuje.
+Nezná přesné detaily zkoušky a nechce učitele rozčílit.
 
 **Co a za kolik sdělí dětem:**
 
@@ -107,13 +105,17 @@ Učitel černé magie kdysi neuspěl u zkoušky na Bystrozora. Bystrozor mu to d
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
 | Co se stane, když se někdo spojí se Srdcem krví | Po chvíli váhání vysvětlí, že krev přímého potomka může člověka se Srdcem magicky svázat. | 2 min |
-| Jak lze pouto přerušit | Řekne, že učitel mluvil o správném postupu s pohárem a heslem. | 2 min |
+| Jak lze pouto přerušit | Řekne, že učitel mluvil o správném postupu s pohárem a heslem. Zkuste se zeptat ředitelky nebo bystrozora mohli by vědět více. | 2 min |
 | Jak poznat, že pouto bylo přerušeno | Vysvětlí, že spojený člověk náhle zeslábne, zalape po dechu a udělá se mu zle. | 2 min |
 | Kdo je se Srdcem spojený | Neví. Zdůrazní, že nezná jméno ani důvod, proč mu učitel tyto věci řekl. | 1 min |
 
 **Kartička k vytištění:**
 
-Kdo se ke Srdci připojí krví přímého potomka Aldeberta, zůstane s ním magicky spojený. Pouto lze přerušit správným postupem s pohárem a heslem. Člověk spojený se Srdcem pak náhle zeslábne, zalape po dechu a udělá se mu zle.
+Kdo se ke Srdci připojí krví přímého potomka Aldeberta, zůstane s ním magicky spojený. 
+
+Pouto lze přerušit správným postupem s pohárem a heslem. 
+
+Pokud vám podaří pouto přerušit, tak ten člověk spojený se Srdcem krví pak náhle zeslábne, zalape po dechu a udělá se mu zle.
 
 ### Nedělní dopoledne – Finálová hra
 
