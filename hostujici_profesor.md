@@ -108,11 +108,11 @@ Erb na knize patří jejímu dávnému vlastníkovi z rodu Mordwynů. Já jeho p
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
 | Proč je učitel černé magie proti němu | Profesor neví. Řekne, že se s učitelem neshodli na tom, jak zacházet se starými magickými prameny. | 1 min |
-| Zda jeho výzkum souvisí s pohárem | Přizná, že pohár nese staré symboly, které by mohly být historicky důležité, ale jeho výzkum není zaměřený na pohár. | 2 min |
+| Zda jeho výzkum souvisí s pohárem | Přizná, že pohár nese staré symboly, které by mohly být historicky důležité, ale jeho výzkum není zaměřený na pohár. Pohár by mohl souviset se Srdcem Bradavic. | 2 min |
 
 **Kartička k vytištění:**
 
-Můj výzkum se týká starých ochranných mechanismů. Nehledám ukradený pohár.
+Můj výzkum se týká starých ochranných mechanismů. Pohár může souviset se Srdcem Bradavic. 
 
 ### Neděle ráno – Kvíz Harry Potter
 
@@ -129,10 +129,13 @@ Můj výzkum se týká starých ochranných mechanismů. Nehledám ukradený poh
 | Zda našel zbytek knihy | Řekne, že mu stále chybí. | 1 min |
 | Co bylo v chybějících stránkách | Odpoví, že šlo o poznámky k artefaktům a ochranným rituálům; přesný obsah už si nepamatuje. | 2 min |
 | Zda ví, kdo unesl komisaře | Neví. Nabídne, že pomůže hledat jeho knihu i komisaře, ale nemá žádnou stopu k únosci. | 1 min |
+| Kde najít postup k uzavření Srdce | Pošle děti na za ředitelkou a bystrozorem. | 1 min |
 
 **Kartička k vytištění:**
 
 Má kniha stále chybí. Ten kdo ji má, by se mohl dostat k Srdci Bradavic.
+
+O postupu jak uzavřít srdce by něco mohli vědět ředitelka s bystrozorem.
 
 ### Nedělní dopoledne – Finálová hra
 

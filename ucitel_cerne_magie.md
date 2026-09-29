@@ -129,8 +129,8 @@ Děti mohou zjistit, že k oficiálnímu přístupu je potřeba pohár i formule
 | Kdo unesl komisaře | „Nevím. Doufám, že bystrozor to brzy zjistí.“ | 1 min |
 | Proč by někdo unesl komisaře | „Možná jde o výkupné nebo další pokus získat pohár. Možná jej i nikdo neunesl, možná prchnul.“ Učitel záměrně neřekne nic o jeho krvi. | 1 min |
 | Zda je třeba komisaře zachránit | „Samozřejmě. Každý člověk v nebezpečí si zaslouží pomoc i když je otázka, jestli je v nebezpečí že?“ | 1 min |
-| Co je ve speciální truhle | „Jsou to soukromé pracovní věci. Nemám důvod vám o nich vyprávět.“ Pokud už novinář prozradil svou verzi, učitel tvrdí, že jde o nebezpečné, ale zajištěné zvíře. | 1 min |
-| Zda je učitel s komisařovým zmizením spojen | Zapře to a rozhovor stočí k tomu, že děti mají hledat způsob, jak Srdce bezpečně uzavřít. | 1 min |
+| Co je ve speciální truhle | „Jsou to soukromé pracovní věci. Nemám důvod vám o nich vyprávět.“ Pokud už novinář prozradil svou verzi, učitel tvrdí, že jde o nebezpečné, ale zajištěné zvíře. | 2 min |
+| Zda je učitel s komisařovým zmizením spojen | Zapře to a rozhovor stočí k tomu, že děti mají hledat způsob, jak Srdce bezpečně uzavřít. Neví kdo jim s tím pomůže. | 1 min |
 
 **Kartičky k vytištění:**
 

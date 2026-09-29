@@ -119,10 +119,13 @@ Učitel jej požádal, aby o tom zatím nepsal, dokud nebude mít jistotu, že j
 |---|---|---:|
 | Co ví o zmizení komisaře | Neví, kdo jej odvedl. Zmíní, že má ale jednu čerstvou zprávu od učitele černé magie. | 1 min |
 | Co učitel ukrývá v truhle | Prozradí, že učitel tvrdil, že v pracovně drží mládě chiméry ze Zapovězeného lesa. Novinář věří, že se snaží tvora bezpečně zajistit. Říká jim, že o tom nesmí nikde mluvit. | 1 min |
+| Kde najít postup k uzavření Srdce | Zkuste se zeptat ředitelky a bystrozora | 1 min |
 
 **Kartička k vytištění:**
 
 Učitel černé magie mi řekl, že ve své pracovně drží v truhle mládě chiméry ze Zapovězeného lesa. Sám jsem ho neviděl; učitel tvrdil, že čeká, až bude tvor bezpečně pod kontrolou. Nikomu o tom neříkejte!
+
+O postupu jak uzavřít srdce by něco mohli vědět ředitelka s bystrozorem.
 
 ### Nedělní dopoledne – Finálová hra
 
