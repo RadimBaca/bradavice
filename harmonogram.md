@@ -55,7 +55,7 @@ Rozluštěním šifry se dozví jméno **Aldebert z Mordwynu** a útržek inform
 
 ### Zakončení večera
 Dojde k ukradení poháru. Selžou ochranná kouzla, něco je zjevně špatně.
-Scénka: děti budou všechny v jedné místnosti, náhle všechno zhasne, pustí se nepříjemná hudba (syčení) a jen prefekti a dva dospělí se budou snažit seslat ochranná kouzla.
+Scénka: děti budou všechny v jedné místnosti, náhle všechno zhasne, pustí se nepříjemná hudba (syčení) a jen prefekti a dva dospělí se budou snažit seslat ochranná kouzla. Nakonec se rozsviti, až učitel černé magie řekne "Lumos"!
 
 **Nápověda (v rámci scénky):** 
 1. Ochranná kouzla selhávají, jako by něco kouzla "rušilo" (info č. 1.5 – náznak).
@@ -67,7 +67,7 @@ Scénka: děti budou všechny v jedné místnosti, náhle všechno zhasne, pust�
 - **Bývalý absolvent, nyní novinář** – za málo času nabídne levnou, nejistou verzi téže informace: fámu, že "Bradavice prý mají někde ukryté vlastní srdce, které je drží při životě" (info č. 1, ale jako drb, ne potvrzený fakt). K Aldebertovi novinář uvede těžko uvěřitelnou historku, že se jednalo o bojovníka s draky a využil jejich srdce pro obranu hradu.
 - **Duch Bradavic** – dá útržkovitou básničku/hádanku spojující Aldebertovo jméno se Srdcem, aniž by cokoli přímo potvrdil, např. že "ten, kdo famfrpál pomohl stvořit, dodnes spí tam, kde bije srdce hradu" (předzvěst info č. 3, nepůsobí jako spolehlivý zdroj).
 - **Famfrpálový komisař** – nabídne zavádějící informaci č. 1 (ochranné runy Bradavic se prý "jednou za čas zblázní"). Aby odvedl pozornost od vlastní krádeže, vyhlásí neformální vedlejší úkol – požádá děti/družiny, ať mu pomohou zkontrolovat ochranné runy rozmístěné po táboře/hradu, než se "věc vymkne kontrole".
-- **Doprovázející profesor z hostující školy** – přiživí zavádějící informaci č. 2 pokud se na ni zeptají. Tzn. že za výpadky můžou žertíky studentů Kruvalu, čímž přiživí škodolibou rivalitu mezi školami; k historii Bradavic přidá útržek vlastní, důvěryhodně znějící informace o staré spojitosti své školy se Srdcem (bez konkrétního potvrzení).
+- **Doprovázející profesor z hostující školy** – že neví, co výpadky způsobilo.
 - **Naivní pomocník učitele černé magie** – pokud se ho děti zeptají, je viditelně nervózní a vyhýbavý a mumlá něco o nejapných žertech hostujících škol. O Aldebertovi ví málo, že by zabíjel draky neví.
 - **Učitel černé magie:** učitel se dětem sám nabídne se zavádějícím "vysvětlením" – tvrdí, že za výpadky může pravděpodobně škodolibý žert jedné z hostujících škol. Pokud se zeptají na srdce, tak řekne, že se jedná nejspíše o pověru a nic takového neexistuje.
 

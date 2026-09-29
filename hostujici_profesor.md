@@ -35,15 +35,19 @@ Profesor není padouch. Chce najít artefakty, porozumět ochrannému mechanismu
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co si myslí o výpadcích magie | Řekne, že neví, co je způsobilo, a že je příliš brzy někoho obviňovat. | 1 min |
+| Co si myslí o výpadcích magie | Řekne, že neví, co je způsobilo. | 1 min |
 | Zda ví něco o starých ochranných mechanismech | Přizná, že ho staré ochranné magie zajímají, ale konkrétní výzkum s dětmi probírat nebude. | 2 min |
 | Zda zná Srdce Bradavic | Odpoví vyhýbavě, že slyšel o několika starých pověstech, ale žádnou zatím nemůže potvrdit. | 2 min |
+| Kde je pohár | To je skutečná záhada. Jedná se významný artefakt, snad se brzy najde. | 2 min |
+
 
 **Kartičky k vytištění:**
 
-Zatím nevím, co způsobilo výpadky magie. Je příliš brzy někoho obviňovat.
+Zatím nevím, co způsobilo výpadky magie. 
 
 Staré ochranné magie mě zajímají, ale svůj výzkum zatím nemohu probírat.
+
+Pohár je významný artefakt, snad se brzy najde.
 
 ### Sobota ráno – Bitva s monstry
 
