@@ -3,10 +3,10 @@
 Téma: Harry Potter – přibližně 20 let po událostech poslední knihy.
 
 Do Bradavic přijíždějí na mezinárodní turnaj ve famfrpálu zástupci čtyř škol:
-- Krásnohůlky
-- Kruval
-- Ilvermorny
-- Castlegard
+- Krásnohůlky (červená)
+- Kruval (modrá)
+- Ilvermorny (zelená)
+- Castlegard (žlutá)
 
 
 Nejstarší čtyři děti budou fungovat jako prefekti/průvodci jednotlivých škol - budou jako že z Bradavic.
