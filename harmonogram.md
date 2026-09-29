@@ -45,6 +45,7 @@ Seznam zavádějících/nerelevantních informací (budou šířit ):
 - Hůlka může být později využívána jako součást her
 
 ### Šifrovací hra
+**Zodpovídá:** Vodka
 Zatímco jednotlivé skupiny postupně zdobí hůlky, jedna družina plní šifrovací úkol. Družiny se mohou střídat.
 
 Rozluštěním šifry se dozví jméno **Aldebert z Mordwynu** a útržek informace, že to byl spolutvůrce famfrpálu, který za záhadných okolností zmizel
@@ -106,7 +107,7 @@ Mezi pozůstatky bitvy najdou děti potrhanou stránku z prastaré knihy o Srdci
 ### Dopoledne – Stopovačka
 - **Zodpovídá:** Křižák
 
-Cíl stopovačky je zjistit, že zlodějem poháru je famfrpálový komisař.
+Cíl stopovačky je dostat dostatek informací, které povedou k tomu že se děti dozvědí, že zlodějem poháru je famfrpálový komisař.
 
 Jedna zastávka vede k místu, kde byl pohár krátce ukrytý. Tam děti najdou **medailonek s erbem rodu Mordwyn** (nicméně to ještě neví, musí zjistit od knihovníka) – klíčovou stopu, kterou komisař při úkrytu poháru nevědomky ztratil.
 
@@ -114,7 +115,7 @@ Jedna zastávka vede k místu, kde byl pohár krátce ukrytý. Tam děti najdou 
 **Nápovědy v rámci stopovačky:** 
 1. Medailonek s erbem rodu Mordwynu byl nalezen na místě, kde byl ukraden pohár.
 2. Famfrpálový pohár může posloužit jako přístup k Srdci Bradavic.
-3. Seznam účastníků turnaje má komisař a také školník, který pomáhá s organizací.
+3. Na hradě je potomek Aldaberta.
 
 **Dodatečné informace (od role):**
 - **Bývalý absolvent, nyní novinář** – (může přehánět/lhát o svém významu v příběhu) potvrdí, že se komisař v posledních týdnech vyptával na starou kroniku a rodokmeny.
