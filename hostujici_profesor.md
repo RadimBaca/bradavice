@@ -68,9 +68,9 @@ Pohár je významný artefakt, snad se brzy najde.
 
 **Kartičky k vytištění:**
 
-Profesor tvrdí, že uklouzl na mokrém kameni u skleníku a zachytil se o trnitý keř.
+Uklouzl jsem na mokrém kameni u skleníku a zachytil se o trnitý keř.
 
-Profesor tvrdí, že v Zakázaném lese hledal měsíční hřiby. Jejich výtrusy prý po setmění slabě světélkují.
+V Zakázaném lese jsem hledal měsíční hřiby. Jejich výtrusy prý po setmění slabě světélkují.
 
 Erb by mohl poznat knihovník.
 
