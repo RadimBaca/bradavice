@@ -1,8 +1,8 @@
-# Doprovázející profesor Ilvermorny
+# Hostující profesor
 
 ## Úvodní popis role
 
-Profesor doprovází školní výpravu z Ilvermorny na mezinárodní famfrpálový turnaj. Je zvídavý, vzdělaný a věří, že staré magické poznatky mohou pomoci řešit dnešní problémy. Po dohodě s ředitelkou Bradavic zkoumá staré ochranné mechanismy. Rád by zjistil, zda by podobné Srdce mohlo jednou chránit také jeho školu. O jejich dohodě neví bystrozor; profesorova návštěva lesa a jeho výzkumná mise jsou tajné.
+Hostující profesor doprovází školní výpravu z Ilvermorny na mezinárodní famfrpálový turnaj. Je zvídavý, vzdělaný a věří, že staré magické poznatky mohou pomoci řešit dnešní problémy. Po dohodě s ředitelkou Bradavic zkoumá staré ochranné mechanismy. Rád by zjistil, zda by podobné Srdce mohlo jednou chránit také jeho školu. O jejich dohodě neví bystrozor; profesorova návštěva lesa a jeho výzkumná mise jsou tajné.
 
 Profesor vlastní prastarou knihu o Srdci Bradavic, jejíž vazba nese erb rodu Mordwynů. Kniha obsahuje poznámky o Srdci a artefaktech, které s ním souvisejí, ale některé stránky z ní byly vytrženy už dávno. Profesor v Zakázaném lese hledal stopy k těmto artefaktům. Při průzkumu nechtěně vyrušil monstra. Ta na něj zaútočila a roztrhala knihu; profesor se dostal zpět do Bradavic s potrhaným hábitem a odřeninami.
 

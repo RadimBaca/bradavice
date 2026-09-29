@@ -118,12 +118,14 @@ V kronikách jsou informace o poháru a staré formuli, ale knihovník k tomu ne
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
 | Co se stalo s komisařem | Ví jen, že zmizel z místa, kde byl držen. Neví, kdo jej odvedl. | 1 min |
-| Co ví o poháru a staré formuli | Kroniky zmiňují, že pohár a stará formule spolu souvisejí při přístupu k Srdci. | 2 min |
+| Co ví o staré formuli | Kroniky zmiňují, že formule je "Adane Totedane". | 3 min |
 | Kde najít způsob, jak Srdce uzavřít | Řekne, že něco o tom by mohl vědět bystrozor nebo ředitelka. | 2 min |
 
 **Kartičky k vytištění:**
 
 Kroniky spojují famfrpálový pohár a starou formuli s přístupem k Srdci Bradavic. Nevím přesně jak.
+
+Formule je "Adane Totedane"
 
 ### Nedělní dopoledne – Finálová hra
 

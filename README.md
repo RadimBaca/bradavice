@@ -11,6 +11,6 @@ Vítejte v podkladech pro víkendový příběh **Srdce Bradavic**. [Harmonogram
 - [Bývalý absolvent, nyní novinář](novinar.md) (Helma)
 - [Knihovník/kustod archivu](knihovnik.md) (Deli)
 - Duch Bradavic (Hanz)
-- [Doprovázející profesor z Ilvermorny](hostujici_profesor.md) (Dan)
+- [Hostující profesor z Ilvermorny](hostujici_profesor.md) (Dan)
 - [Potomek Aldeberta z Mordwynu – famfrpálový komisař](famfrpalovy_komisar.md) (Miloš)
 - [Naivní pomocník učitele černé magie](naivni_pomocnik.md) (Jodis)
