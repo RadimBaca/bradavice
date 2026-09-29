@@ -40,18 +40,20 @@ Možná za selhávající kouzla mohou nějaké žerty studentů z hostujících
 
 **Co pomocník ví:**
 
-Ví, že učitel se zajímá o to, co děti během pátrání objevily.
+- Všiml si profesorova potrhaného hábitu, ale neví, proč je zraněný.
+- Učitel černé magie se o profesorovi vyjadřuje podezřívavě.
+- Neví, že učitel získal část knihy ani co se v ní dočetl.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb na stránce | Přizná, že erb nepoznává. Poradí jim zeptat se knihovníka. | 1 min |
+| Co se stalo profesorovi | Neví. Řekne, že učitel tvrdí, že profesor něco tají, ale nedokáže to potvrdit. | 1 min |
+| Co si o profesorovi myslí učitel | Nervózně zopakuje, že učitel profesora podezírá z nebezpečného pátrání. | 1 min |
 
 **Kartička k vytištění:**
 
-Erb na stránce nepoznávám. Knihovník nebo archivář vám může pomoci zjistit, komu patří.
-
+Učitel černé magie tvrdí, že hostující profesor něco tají. Sám ale nevím, co se mu stalo.
 ### Sobota dopoledne – Stopovačka
 
 **Co pomocník ví:**

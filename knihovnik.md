@@ -48,20 +48,20 @@ Aldebert z Mordwynu vstoupil do Srdce Bradavic a je v něm dodnes ukryt.
 
 **Co knihovník ví:**
 
-Erb nalezený na stránce kroniky patří rodu Mordwynů.
+- Pozná potrhanou knihu jako starý soukromý pramen o Srdci Bradavic. Neví, že ji měl hostující profesor.
+- Erb je rodu Mordwynů.
+- Ví, že některé stránky v knize chyběly už dávno.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Kterému rodu patří erb | Určí, že erb patří rodu Mordwynů. | 2 min |
-| Co ví o Aldebertově rodu | Potvrdí, že Aldebert pocházel z rodu Mordwynů. | 1 min |
+| Co je to za knihu | Určí ji jako starý soukromý pramen o Srdci Bradavic. | 2 min |
+| Co znamená erb Mordwynů | Vysvětlí, že erb označuje původního vlastníka či písaře knihy a jedná se o erb rodu Mordwynů. | 2 min |
 
-**Kartičky k vytištění:**
+**Kartička k vytištění:**
 
-Erb na stránce kroniky patří rodu Mordwynů.
-
-Aldebert z Mordwynu pocházel z rodu, jehož erb jste našli na stránce kroniky.
+Potrhaná kniha je starý soukromý pramen o Srdci Bradavic. Jde o Erb rodu Mordwynů označuje jejího původního vlastníka.
 
 ### Sobota dopoledne – Stopovačka
 

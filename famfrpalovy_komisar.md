@@ -53,25 +53,20 @@ Aldebert z Mordwynu byl jedním ze spolutvůrců famfrpálu a významnou postavo
 
 **Co komisař ví:**
 
-- Děti mohou mezi pozůstatky bitvy najít stránku kroniky se znakem rodu Mordwynů.
-- Erb na stránce odpovídá erbu na jeho medailonku a trochu jej to znepokojuje.
-- Děti zatím nemají důkaz, že erb patří jemu.
+- Mezi věcmi nalezenými po bitvě děti objevily potrhanou knihu s erbem Mordwynů.
+- Erb poznává ze svého rodinného medailonku, ale netuší, proč je na profesorově knize ani jak s tím souvisejí monstra.
+- Je z toho zmatený a zatím nechce, aby děti spojovaly erb s jeho medailonkem.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb z kroniky | „Vypadá jako starý rodový erb. Nejsem odborník na heraldiku; zkuste archiv.“ | 1 min |
-| Zda zná Aldeberta z Mordwynu | „Znám ho jako dávnou osobnost famfrpálu. O jeho rodině nic nevím.“ | 1 min |
-| Zda v Bradavicích žije potomek Aldeberta | „To by byla pozoruhodná shoda, ale o nikom takovém nevím.“ | 1 min |
+| Zda poznává erb na knize | Zeptejte se knihovníka. | 1 min |
+| Co ví o profesorovi a monstrech | Neví, co se stalo. Řekne, že profesorovo zranění vypadá vážněji než obyčejné uklouznutí. | 1 min |
 
-**Kartičky k vytištění:**
+**Kartička k vytištění:**
 
-Znak ze stránky vypadá jako starý rodový erb. 
-
-Aldeberta znám jako dávnou osobnost famfrpálu. 
-
-Nevím o nikom v Bradavicích, kdo by byl potomkem Aldeberta.
+Na Erb se zkuste zeptat knihovníka.
 
 ### Sobota dopoledne – Stopovačka
 

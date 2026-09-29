@@ -32,7 +32,6 @@ Srdce Bradavic lze aktivovat **dvěma nezávislými způsoby**:
 1. **Famfrpálový pohár + formule** – vítěz turnaje, který drží pohár (Aldebertovo dílo) a zná správnou formuli/heslo z kroniky, může Srdce aktivovat oficiální, "čistou" cestou. Tato cesta je napojená na stopovačku/šifry/famfrpál a je to ta, kterou postupně odhalují děti.
 2. **Krev rodu** – Srdce zároveň reaguje na krev/magii přímého potomka Aldeberta z Mordwynu, bez ohledu na pohár či formuli. Sám potomek si tuto vlastnost neuvědomuje – **ví o ní ale učitel černé magie**, který se ho snaží (nevědomky pro potomka) k aktivaci využít, aby nad Srdcem získal kontrolu ve svůj prospěch.
 
-To dává důvod, proč postava učitele chce sbírat indicie stejným tempem jako děti (aby dohnal/předehnal oficiální cestu), a zároveň paralelně pracuje na té skryté, nezávislé na pokroku dětí.
 
 ## Nový učitel černé magie (obrany proti černé magii)
 
@@ -40,8 +39,7 @@ To dává důvod, proč postava učitele chce sbírat indicie stejným tempem ja
 
 - **Kdo je:** nový, mladší profesor Obrany proti černé magii, na Bradavicích teprve první rok. Působí sympaticky, ochotně dětem pomáhá – což z něj dělá nenápadného podezřelého.
 - **Motivace:** kdysi propadl u zkoušky na Bystrozora a byl u ní veřejně ponížen. Od té doby se snaží dokázat (sobě i ostatním), že je velkým kouzelníkem. Ovládnutí Srdce Bradavic pro něj není jen otázka ochrany hradu, ale hlavně způsob, jak si konečně vydobýt moc a respekt, které mu "svět odepřel".
-- **Vztah k mechanismu:** ví o obou způsobech aktivace. Jeho skutečným plánem je nenápadně využít krev potomka Aldeberta – ten netuší, jakou má hodnotu, takže učitel se ho snaží dostat na správné místo ve správnou chvíli, aniž by potomek pochopil proč.
-- **Možný zvrat na finále:** děti ho mohou buď zastavit, nebo se s ním na poslední chvíli spojit / rozhodnout, komu věří (dobrý prostor pro morální volbu místo jednoznačného "hodný/zlý").
+- **Vztah k mechanismu:** dozví o obou způsobech aktivace z knihy, kterou nalezne v sobotu ráno. Jeho plánem je nenápadně využít krev potomka Aldeberta.
 
 ## Role (~10 dospělých s "rolí" na tričku)
 
@@ -52,39 +50,35 @@ To dává důvod, proč postava učitele chce sbírat indicie stejným tempem ja
 5. **Bývalý absolvent, nyní novinář (Helma)** – hledá senzaci, ochotně vymění informaci za informaci, ale může i lhát/přehánět kvůli senzaci.
 6. **Knihovník/kustod archivu (Deli)** – drží staré kroniky se zmínkou o heslu/rituálu; typická "otázková" postava, kde čas kupuje konkrétní citace.
 7. **Duch Bradavic (Hanz)** – dává útržkovité, symbolické nápovědy, nikdy přímou odpověď; dobré pro atmosféru.
-8. **Doprovázející profesor z jedné z hostujících škol (Dan)** (Kruval) – má vlastní agendu, pohár obsahuje symboly, které se mají stát součástí velkého kouzla připravovaném v Kruvalu. může být nespolehlivý spojenec.
+8. **Doprovázející profesor z Ilvermorny (Dan)** – po dohodě s ředitelkou tajně zkoumá staré ochranné mechanismy, protože by podobný systém rád vytvořil i pro svou školu. Bystrozor o dohodě neví.
 9. **Potomek Aldeberta z Mordwynu (Miloš)** – vystupuje jako **famfrpálový komisař turnaje** (má tak legitimní důvod k poháru i k historii famfrpálu); nese rodinný deník, díky kterému ví, že je potomkem Aldeberta, a snaží se ho pomocí aktivace Srdce Bradavic kontaktovat. Neví, že jeho vlastní krev je druhým, nezávislým klíčem k aktivaci – to ví jen učitel černé magie, který se ho snaží k tomu nevědomky využít.
 10. **Naivní pomocník učitele černé magie (Jodis)** – neví, komu vlastně pomáhá; může dětem nevědomky prozradit, co učitel plánuje, pokud se ho správně zeptají.
 
 **Poznámka k mechanice:** doporučuji, aby min. 2–3 role vědomě lhaly nebo zamlčovaly (novinář, hostující profesor), aby "čas" nebyl jen platba za pravdu, ale i riziko – děti se musí rozhodnout, komu věřit.
 
-TODO: navrhnout take dvě vedlejší dějové linky, které se srdcem nebudou souviset.
+
 
 # Návrh zápletky
 
 ## Level 1 – Ukradený pohár
 
-Krátce po příjezdu škol zmizí pohár famfrpálového turnaje. Zároveň se objeví stopy naznačující, že krádež není obyčejnou krádeží.
+V pátek večer po příjezdu škol zmizí pohár famfrpálového turnaje. Zároveň se objeví stopy naznačující, že krádež není obyčejnou krádeží a že selhávají kouzla.
 
-Během víkendu děti zjišťují:
-
-1. co má krádež společného s historií Bradavic,
-2. proč byl pohár ukraden,
-3. kdo jej asi mohl ukrást,
-4. zda-li se dá pohár znovu získat,
-5. a taky spoustu dalších nepodstatných detailů.
+Během sobotního dopoledne děti zjišťují:
+- co je Srdce Bradavic a že souvisí s Aldebertem z Mordwynu
+- kdo ukradl pohár (famfrpálový komisař)
 
 Pohár není cílem sám o sobě. Pohár je pouze prostředek k získání přístupu k srdci Bradavic.
 
-## Level 2 – Ztracená magie Bradavic
-
-Po příjezdu škol začnou v Bradavicích selhávat některá kouzla. Objevují se podivné jevy, některé místnosti se chovají jinak než obvykle a kouzelné bytosti usínají.
+## Level 2 – Aktivace Srdce Bradavic
 
 Děti postupně zjišťují, že někdo se pokouší aktivovat starý magický mechanismus (srdce Bradavic), který byl v Bradavicích ukrytý již před staletími.
 
 Cíl víkendu: zjistit, co se děje, najít jednotlivé části mechanismu a zabránit jeho aktivaci.
 
-Výhoda: velký prostor pro tajemnou atmosféru a postupné odhalování příběhu.
+## Vedlejší zápletka
+
+Doprovázející profesor z Ilvermorny po dohodě s ředitelkou hledá v Zakázaném lese artefakty k Srdci Bradavic. Nechtěně vyruší monstra, která na něj zaútočí a roztrhají jeho prastarou knihu o Srdci. Erb Mordwynů na knize patří jejímu dávnému vlastníkovi, nikoli profesorovi. Některé stránky byly vytržené už dříve. Učitel černé magie získá při útoku jednu další část knihy a z ní zjistí, že krev potomka Aldeberta může sloužit jako samostatný přístup k Srdci. Ředitelka o tajné výpravě ví; bystrozor ne.
 
 ## Legenda Srdce Bradavic – Aldebert z Mordwynu
 

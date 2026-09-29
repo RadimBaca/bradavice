@@ -46,19 +46,22 @@ O spojení Aldeberta se Srdcem nic nevím. Zkuste se zeptat knihovníka nebo arc
 
 **Co ředitelka ví:**
 
-Ví o nalezené stránce kroniky a erbu, ale sama erb neumí určit.
-Řekne dětem, aby staré předměty prohlédl knihovník nebo archivář.
+- Po dohodě povolila hostujícímu profesorovi neveřejně studovat staré ochranné mechanismy a hledat v Zakázaném lese artefakty spojené se Srdcem.
+- Bystrozorovi o této dohodě neřekla; chtěla předejít diplomatickému nedorozumění a panice.
+- Ví, že profesor v noci odešel do lesa, ale neví přesně, jak probíhal útok monster ani že učitel černé magie získal část jeho knihy.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb nalezený na stránce | Nedokáže určit rod. Doporučí ukázat stránku knihovníkovi nebo archiváři. | 1 min |
-| Zda je v Bradavicích potomek Aldeberta | O takovém potomkovi neví. | 1 min |
+| Proč má profesor potrhaný hábit | „Profesor se při ranní obhlídce zachytil o trnitý keř. Není důvod dělat z toho záhadu.“ | 1 min |
+| Komu patří erb na knize | Možná by mohl vědět knihovník? | 1 min |
 
 **Kartičky k vytištění:**
 
-Erb na stránce nedokážu určit. Ukažte jej knihovníkovi nebo archiváři.
+Profesor se při ranní obhlídce zachytil o trnitý keř.
+
+Erb by mohl poznat knihovník.
 
 ### Sobota dopoledne – Stopovačka
 

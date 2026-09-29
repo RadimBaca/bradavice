@@ -48,21 +48,27 @@ Srdce Bradavic je jen stará pověra. Pod hradem nic takového není.
 
 **Co učitel ví:**
 
-- Děti mohou najít erb Mordwynů na stránce kroniky.
-- Erb je vodítko k rodové linii komisaře, ale učitel nechce, aby jej děti spojily s ním.
+- Hostující profesor v noci hledal v Zakázaném lese artefakty k Srdci Bradavic.
+- Monstra profesora napadla a roztrhala jeho prastarou knihu.
+- Učitel získal jednu část knihy. Z ní pochopil, že krev potomka Aldeberta může posloužit jako nezávislý přístup k Srdci.
+- Chce odvést pozornost od sebe a znevěrohodnit profesora.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb na stránce | Může jít o starý rodový znak. Zkuste archiv nebo knihovníka. | 1 min |
-| Zda je v Bradavicích potomek Aldeberta | O tom nic nevím. To bude nějaká hloupost. | 1 min |
+| Co se stalo profesorovi | Zlehčí jeho zranění a naznačí, že profesor často podniká riskantní výpravy. Záměrně neřekne, že sám získal část knihy. | 1 min |
+| Proč profesor šel do lesa | Řekne, že možná hledal něco zakázaného nebo nebezpečného. Možná chtěl něco schovat (třeba ukradený pohár?) | 2 min |
+| Co znamená erb na knize | Zkuste se zeptat knihovníka. | 1 min |
+| Co tam profesor hledal? | Možná něco schovával? | 1 min |
 
 **Kartičky k vytištění:**
 
-Erb ze stránky vypadá jako starý rodový znak. 
+Hostující profesor zřejmě podnikal v noci riskantní výpravy do Zakázaného lesa.
 
-O tom, že by v Bradavicích žil potomek Aldeberta, nic nevím.
+Erb na knize bych probral s knihovníkem.
+
+Neschoval něco profesor v lese?
 
 ### Sobota dopoledne – Stopovačka
 

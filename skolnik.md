@@ -41,19 +41,22 @@ V pátek v noci někdo procházel chodbou směrem k trofejové místnosti. Byla 
 
 **Co školník ví:**
 
-Ví, že se v okolí hradu dějí podivné věci, ale nezná původ erbu nalezeného dětmi.
-Staré erby a kroniky zná lépe knihovník.
+- Večer viděl hostujícího profesora odcházet směrem k Zakázanému lesu.
+- Neví, co tam profesor dělal ani co se mu v lese stalo.
+- Zranění a potrhaného hábitu si všiml až po ranní bitvě.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb na stránce kroniky | Přizná, že si erb netroufá určit. Pošle děti za knihovníkem nebo archivářem. | 1 min |
-| Co ví o podivných událostech v hradu | Řekne, že starý hrad občas vydává zvuky a chová se zvláštně, ale tentokrát jsou výpadky kouzel jiné než obvykle. | 1 min |
+| Proč má profesor potrhaný hábit | Neví. Řekne, že i jeho to zaujalo a že se ho děti mohou zeptat přímo. Nicméně řekne, že ho večer viděl odcházet směrem k Zakázanému lesu. Neví, zda tam profesor skutečně došel ani proč tam šel. | 2 min |
+| Zda poznává erb na knize | Zeptejte se knihovníka. | 1 min |
 
-**Kartička k vytištění:**
+**Kartičky k vytištění:**
 
-Erb na stránce kroniky nedokážu určit. Zeptejte se knihovníka.
+Večer jsem viděl hostujícího profesora odcházet směrem k Zakázanému lesu. Nevím, proč tam šel.
+
+Na Erb se zkuste zeptat knihovníka.
 
 ### Sobota dopoledne – Stopovačka
 

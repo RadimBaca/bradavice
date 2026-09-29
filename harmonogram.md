@@ -88,13 +88,20 @@ V rámci zavádějících informací od komisaře mohou opravovat runy. Bude se 
 **Zodpovídá:** Vodka (pravidla připraví Vodka)
 Krátká akční ranní hra.
 
-Mezi poraženými monstry/na bojišti najdou potrhanou stránku staré kroniky se zpodobněním **erbu rodu Mordwyn** (info č. 4) – zatím bez spojitosti s konkrétní osobou.
+Mezi pozůstatky bitvy najdou děti potrhanou stránku z prastaré knihy o Srdci Bradavic. Na stránce je erb rodu Mordwynů (info č. 4), zatím bez jasné spojitosti s konkrétní osobou. Profesor má po bitvě potrhaný hábit a odřeniny.
 
 **Nápověda získaná v rámci bitvy:** 
-1. Byla nalezena potrhaná stránka staré kroniky se zpodobněním **erbu rodu Mordwyn** (info č. 4) 
+1. Byla nalezena potrhaná stránka z knihy o Srdci Bradavic s **erbem rodu Mordwynů** (info č. 4) 
 
 **Dodatečné informace (od role):**
-- **Bystrozor z Ministerstva kouzel** – prozradí, že podle jeho vyšetřování se v hradu pohybuje žijící potomek rodu Mordwyn (info č. 5).
+- **Hostující profesor** – výmluvou vysvětlí potrhaný hábit, tvrdí, že hledal vzácné měsíční hřiby; při předložení stránky může přiznat, že hledal artefakty k Srdci.
+- **Ředitelka Bradavic** – o profesorově tajné výpravě ví, ale mlží, protože ji sama povolila.
+- **Bystrozor z Ministerstva kouzel** – neví o dohodě s ředitelkou a doporučí dětem, aby si na profesora dávaly pozor.
+- **Školník** – řekne, že profesora večer viděl odcházet směrem k Zakázanému lesu.
+- **Novinář** – nafoukne profesorova zranění a naznačí možné spiknutí.
+- **Famfrpálový komisař** – pozná erb z knihy jako erb ze svého rodinného medailonku, ale neví, proč se objevil na knize.
+- **Knihovník/kustod archivu** – pozná knihu jako starý pramen o Srdci; erb patří jejímu původnímu vlastníkovi.
+- **Učitel černé magie** – profesora před dětmi pomlouvá a zamlčí, že získal část knihy.
 
 ### Dopoledne – Stopovačka
 - **Zodpovídá:** Křižák

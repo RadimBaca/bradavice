@@ -49,18 +49,21 @@ Podle jedné neověřené historky bojoval Aldebert s draky a použil jejich srd
 
 **Co novinář ví:**
 
-Zaslechl, že děti našly stránku staré kroniky s neznámým erbem. Erb neumí spolehlivě určit, ale některé jeho prvky mu připomínají staré rody ze severu. Může nabídnout odhad, zároveň však dětem doporučí ověřit jej v archivu.
+- Viděl, že hostující profesor má potrhaný hábit a čerstvé odřeniny.
+- Neví, co se mu skutečně stalo, ale rád z toho udělá senzační zprávu.
+- Zaslechl, že profesor mohl večer jít do Zakázaného lesa.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co znamená erb na stránce | Nabídne nejistý odhad, že by mohl patřit některému ze starých severních rodů. Přizná, že si jistý není, a doporučí knihovníka. | 1 min |
-| Co ví o Aldebertovi | Zopakuje, že byl spolutvůrcem famfrpálu a známý drakobijce, a připomene, že archivář bude mít přesnější historické zdroje. | 1 min |
+| Co se stalo profesorovi | Nafoukne jeho zranění a naznačí, že profesor mohl v lese něco najít nebo vyrušit. Neví to jistě, ale mluví o možném spiknutí kolem Srdce. | 1 min |
+| Proč má profesor potrhaný hábit | Odpoví, že profesor tvrdí, že uklouzl u skleníku. Novinář tomu nevěří a nabídne dětem, ať zjistí, co se stalo doopravdy. | 1 min |
+| Co si myslí o tajné výpravě | Pokud děti sdělí, že školník viděl profesora jít do lesa, novinář to označí za potvrzení podezřelé noční výpravy. Souvisí to nějak s pohárem? | 2 min |
 
 **Kartička k vytištění:**
 
-Erb by mohl patřit některému ze starých severních rodů. Nejsem si jistý. Knihovník nebo archivář jej může porovnat se starými záznamy.
+Hostující profesor se po ranním útoku monster objevil s potrhaným hábitem a čerstvými odřeninami. Co dělal v noci v lese a co tam hledal? Je to celé podezřelé. Navíc ten ukradený pohár ...
 
 ### Sobota dopoledne – Stopovačka
 

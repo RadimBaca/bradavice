@@ -49,26 +49,20 @@ O Srdci Bradavic jsem slyšel jako o pověsti, ale nemám potvrzeno, že takový
 
 **Co bystrozor ví:**
 
-Z vlastního vyšetřování zjistil, že se v Bradavicích pohybuje žijící potomek rodu Mordwynů.
-Zatím nechce bez důkazu veřejně určit, kdo to je.
-Ví, že erb nalezený na stránce kroniky patří k důležité rodové stopě, ale nezná všechny souvislosti.
+- Nevěděl, že ředitelka povolila hostujícímu profesorovi tajný průzkum.
+- Po bitvě si všimne jeho potrhaného hábitu a poranění. Profesorova výprava do lesa mu připadá podezřelá.
+- Neví, že profesor hledal artefakty k Srdci, ani že učitel černé magie získal část jeho knihy.
 
 **Co a za kolik sdělí dětem:**
 
 | Když se děti zeptají… | Odpověď | Cena |
 |---|---|---:|
-| Co ví o erbu Mordwynů | Potvrdí, že jde o rodový znak Mordwynů a že souvisí s jeho vyšetřováním. | 2 min |
-| Zda je v Bradavicích potomek Aldeberta | Prozradí, že jeho vyšetřování ukázalo na žijícího potomka rodu Mordwynů v hradu. Jméno zatím neví/neřekne. | 2 min |
-| Kdo je tím potomkem | Bez dalšího důkazu jméno neprozradí. Doporučí porovnat erb s rodinnými předměty a ověřit rodová jména v záznamech turnaje. | 1 min |
+| Co si myslí o profesorově zranění | Doporučí dětem, aby si na profesora dávaly pozor a zjistily, co dělal v lese. Neobviní ho bez důkazu. | 1 min |
+| Zda profesor v noci odešel do lesa | Řekne, že to neví a že jeho zranění je důvodem k opatrnosti, ne důkazem viny. | 1 min |
 
-**Kartičky k vytištění:**
+**Kartička k vytištění:**
 
-Erb nalezený na stránce patří rodu Mordwynů.
-
-Podle mého vyšetřování se v Bradavicích pohybuje žijící potomek rodu Mordwynů.
-
-Porovnejte erb s nalezenými rodinnými předměty a ověřte jména v záznamech turnaje. Zatím nemám dost důkazů, abych potomka jmenoval.
-
+Na hostujícího profesora si dávejte pozor. Jeho zranění a tajnůstkářské chování si zaslouží vysvětlení.
 ### Sobota dopoledne – Stopovačka
 
 **Co bystrozor ví:**
